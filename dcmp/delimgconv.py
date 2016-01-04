@@ -25,6 +25,5 @@ def BierzUrl(var1):
 
 
 
-
 if __name__ == "__main__":
     BierzUrl(sys.argv[1])
