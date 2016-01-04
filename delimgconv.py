@@ -1,6 +1,5 @@
 '''
 Created on 4 sty 2016
-
 @author: collector1871
 '''
 import sys
