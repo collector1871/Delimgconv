@@ -1,6 +1,6 @@
 '''
 Created on 4 sty 2016
 
-@author: rafal
+@author:
 '''
-print('hello world')
+print('hello world2')
