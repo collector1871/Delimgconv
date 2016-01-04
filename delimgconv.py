@@ -6,6 +6,8 @@ Created on 4 sty 2016
 import sys
 import urllib.request
 from bs4 import BeautifulSoup
+from io import StringIO
+
 
 try:
     var1 = sys.argv[1]
@@ -20,4 +22,6 @@ zupa = BeautifulSoup(zupa1, "html.parser")
 tags = zupa.findAll('img', style="width:99%;")
 koniec = str("\n".join(set(tag['src'] for tag in tags)))
 
-print(koniec)
+koniec1 = StringIO(koniec)
+for line in koniec1:
+    print(line)
