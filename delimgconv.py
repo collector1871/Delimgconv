@@ -11,7 +11,7 @@ from io import StringIO
 try:
     var1 = sys.argv[1]
 except IndexError:
-    var = "pusta"
+    var1 = "pusta"
 
 page = urllib.request.urlopen(var1)
 
