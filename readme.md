@@ -3,3 +3,5 @@
 requires:
 - python3
 - ImageMagick
+
+usage:
