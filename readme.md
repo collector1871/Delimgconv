@@ -1,3 +1,5 @@
-Delcampe image converter.
+### Delcampe image converter.
 
-dfgdfdsfdsf
+requires:
+- python3
+- ImageMagick
