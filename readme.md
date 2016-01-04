@@ -1,6 +1,6 @@
 ### Delcampe image converter.
 
-requires:
+dependencies:
 - python3
 - ImageMagick
 
