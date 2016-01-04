@@ -3,10 +3,16 @@ Created on 4 sty 2016
 
 @author: collector1871
 '''
-
+import sys
 import urllib.request
 from bs4 import BeautifulSoup
-page = urllib.request.urlopen('http://www.delcampe.net/page/item/id,321490576,var,indigenas-mossumbes-editon-raul-peres-leiro-novo-redondo--mauvais-etat-timbre-decoupe--recto-verso-,language,E.html')
+
+try:
+    var1 = sys.argv[1]
+except IndexError:
+    var = "pusta"
+
+page = urllib.request.urlopen(var1)
 
 zupa1 = page.read()
 
