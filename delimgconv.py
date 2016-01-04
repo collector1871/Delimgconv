@@ -4,6 +4,7 @@ Created on 4 sty 2016
 '''
 import sys
 import urllib.request
+import wget
 from bs4 import BeautifulSoup
 from io import StringIO
 
@@ -24,4 +25,5 @@ koniec = str("\n".join(set(tag['src'] for tag in tags)))
 # wyswietlenie po 1 linii output - mozna pracowac z (line)
 koniec1 = StringIO(koniec)
 for line in koniec1:
-    print(line)
+
+    wget.download(line)
