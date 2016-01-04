@@ -1,7 +1,7 @@
 '''
 Created on 4 sty 2016
 
-@author:
+@author: collector1871
 '''
 
 import urllib.request
