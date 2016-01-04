@@ -24,5 +24,7 @@ def BierzUrl(var1):
         wget.download(line)
 
 
+
+
 if __name__ == "__main__":
     BierzUrl(sys.argv[1])
