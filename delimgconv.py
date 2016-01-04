@@ -12,5 +12,6 @@ zupa1 = page.read()
 
 zupa = BeautifulSoup(zupa1, "html.parser")
 tags = zupa.findAll('img', style="width:99%;")
+koniec = str("\n".join(set(tag['src'] for tag in tags)))
 
-print("\n".join(set(tag['src'] for tag in tags)))
+print(koniec)
