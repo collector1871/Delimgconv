@@ -7,4 +7,4 @@ from budowaStr import BierzUrl2
 
 strona = ""
 
-BierzUrl2(strona)
+BierzUrl(strona)
