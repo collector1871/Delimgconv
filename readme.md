@@ -1,10 +1,10 @@
-### Delcampe image downloader and converter:
+## Delcampe image downloader and converter:
 
-## Dependencies:
+### Dependencies:
 - python3
 - python3: BeautifulSoup4, urllib.request, random, request
 
-## Usage:
+### Usage:
 
 	python monitoring.py <arg>
 
