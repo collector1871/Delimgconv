@@ -8,7 +8,7 @@
 
 	python monitoring.py <arg>
 
-arg - it is page with 500 auctions (items) od delcampe.net
+arg - it is user page with 500 auctions (items) on delcampe.net
 
 examples:
 
