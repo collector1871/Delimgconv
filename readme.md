@@ -16,5 +16,5 @@ http://www.delcampe.net/items?reWriteUrl=Y&cat=-2&id_member=383357&language=E&se
 
 http://www.delcampe.net/items?reWriteUrl=Y&cat=-2&id_member=00531538&language=E&searchString=&page=1&useAsDefault=N&layoutForm[listitemsperpage]=500
 
-output:
+output:  
 images in *.jpg
