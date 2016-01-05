@@ -4,7 +4,6 @@ Created on 4 sty 2016
 '''
 import sys
 import urllib.request
-import wget
 from bs4 import BeautifulSoup
 from io import StringIO
 from delimgconv import BierzUrl
@@ -21,8 +20,6 @@ def BierzUrl2(var1):
         koniec4 = str("http://www.delcampe.net/" + koniec3)
         print(koniec4)
         BierzUrl(koniec4)
-
-
 
 if __name__ == "__main__":
     BierzUrl2(sys.argv[1])

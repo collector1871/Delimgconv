@@ -4,7 +4,12 @@ Created on 4 sty 2016
 
 from delimgconv import BierzUrl
 from budowaStr import BierzUrl2
+import sys
 
-strona = ""
 
-BierzUrl(strona)
+def Obrazek(strona):
+    BierzUrl2(strona)
+
+
+if __name__ == "__main__":
+    Obrazek(sys.argv[1])
