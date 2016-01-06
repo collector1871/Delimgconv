@@ -12,7 +12,6 @@ def BierzUrl2(var1):
     page = urllib.request.urlopen(var1)
     zupa1 = page.read()
     zupa = BeautifulSoup(zupa1, "html.parser")
-#     tags = zupa.findAll('div', style="padding:5px;text-align:center;")
     szukanieDivu = zupa.findAll('div', style="padding:5px;text-align:center;")
     for div in szukanieDivu:
         koniec3 = str((div.a['href']))
