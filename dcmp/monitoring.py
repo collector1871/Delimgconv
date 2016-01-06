@@ -6,7 +6,7 @@ import sys
 import urllib
 from bs4 import BeautifulSoup
 from io import StringIO
-# import requests
+import requests
 from random import randint
 
 def BierzUrl(var1):

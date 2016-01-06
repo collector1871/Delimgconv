@@ -6,7 +6,7 @@
 
 ### Usage:
 
-	python monitoring.py <arg>
+	python delimgconv.py <arg>
 
 arg - it is user page with 500 auctions (items) on delcampe.net
 
