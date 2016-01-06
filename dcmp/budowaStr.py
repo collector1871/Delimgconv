@@ -1,12 +1,11 @@
 '''
 Created on 4 sty 2016
-
 '''
 import sys
 import urllib.request
 from bs4 import BeautifulSoup
-from io import StringIO
-from delimgconv import BierzUrl
+# from io import StringIO
+from monitoring import BierzUrl
 
 
 def BierzUrl2(var1):
