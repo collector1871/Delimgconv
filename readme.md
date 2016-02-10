@@ -10,7 +10,7 @@
 
 arg - it is user page with 500 auctions (items) on delcampe.net
 
-examples:
+Examples:
 
 http://www.delcampe.net/items?reWriteUrl=Y&cat=-2&id_member=383357&language=E&searchString=&page=1&useAsDefault=N&layoutForm[listitemsperpage]=500
 
