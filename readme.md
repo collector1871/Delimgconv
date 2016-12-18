@@ -37,4 +37,4 @@ Pobrane pliki zostaną zapisane w formacie *.jpg (czas zależny jest od ilości 
 
 ![Start](https://raw.githubusercontent.com/collector1871/Delimgconv/master/Delimgconv1.jpg)
 
-![pobrane fotki](https://raw.githubusercontent.com/collector1871/Delimgconv/master/Delimgconv2jpg)
+![pobrane fotki](https://raw.githubusercontent.com/collector1871/Delimgconv/master/Delimgconv2.jpg)
