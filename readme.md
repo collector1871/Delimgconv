@@ -35,6 +35,6 @@ Pobrane pliki zostaną zapisane w formacie *.jpg (czas zależny jest od ilości 
 
 #### Screenshoty - przykład
 
-![Start](http://collector1871.github.io/screeny/Delimgconv1.jpg)
+![Start](https://raw.githubusercontent.com/collector1871/Delimgconv/master/Delimgconv1.jpg)
 
-![Poczatek quizu](http://collector1871.github.io/screeny/Delimgconv2.jpg)
+![pobrane fotki](https://raw.githubusercontent.com/collector1871/Delimgconv/master/Delimgconv2jpg)
