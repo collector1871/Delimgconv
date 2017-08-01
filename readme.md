@@ -7,18 +7,18 @@ https://github.com/collector1871/Delimgconv
 Celem programu jest pobranie wszystkich plik��w *.jpg z 500 aukcji (lista przedmiot��w) ze strony delcampe.net.
 Jako argument nale��y poda�� stron�� u��ytkownika (sprzedawcy) z wy��wietlonymi dok��adnie 500 aukcjami.
 
-#### Zale��no��ci
+#### Zależności
 
 - python3
 - python3: BeautifulSoup4, requests, urllib.request, random 
 
-#### U��ycie
+#### Użycie
 
-Nale��y zainstalowa�� niezb��dne zale��no��ci, a nast��pnie:
+Należy zainstalować niezbędne zależności, a następnie:
 
 	python delimgconv.py <argument>
 
-argument - strona u��ytkownika z 500 aukcjami na portalu delcampe.net
+argument - strona użytkownika z 500 aukcjami na portalu delcampe.net
 
 Przyk��ady argumentu:
 
@@ -31,9 +31,9 @@ lub:
 
 #### Wynik
 	
-Pobrane pliki zostan�� zapisane w formacie *.jpg (czas zale��ny jest od ilo��ci zdj����).
+Pobrane pliki zostaną zapisane w formacie *.jpg (czas zależny jest od ilości zdjęć).
 
-#### Screenshoty - przyk��ad
+#### Screenshoty - przykład
 
 ![Start](https://raw.githubusercontent.com/collector1871/Delimgconv/master/Delimgconv1.jpg)
 
