@@ -1,11 +1,11 @@
 ### Delcampe images downloader and converter
 
 * technologia: Python3
-* kod źr��d��owy:   
+* kod źródłowy:   
 https://github.com/collector1871/Delimgconv   
 
-Celem programu jest pobranie wszystkich plik��w *.jpg z 500 aukcji (lista przedmiot��w) ze strony delcampe.net.
-Jako argument nale��y poda�� stron�� u��ytkownika (sprzedawcy) z wy��wietlonymi dok��adnie 500 aukcjami.
+Celem programu jest pobranie wszystkich plików *.jpg z 500 aukcji (lista przedmiotów) ze strony delcampe.net.
+Jako argument należy podać stronę użytkownika (sprzedawcy) z wyświetlonymi dokładnie 500 aukcjami.
 
 #### Zależności
 
@@ -20,7 +20,7 @@ Należy zainstalować niezbędne zależności, a następnie:
 
 argument - strona użytkownika z 500 aukcjami na portalu delcampe.net
 
-Przyk��ady argumentu:
+Przykłady argumentu:
 
 
       http://www.delcampe.net/items?reWriteUrl=Y&cat=-2&id_member=383357&language=E&searchString=&page=1&useAsDefault=N&layoutForm[listitemsperpage]=500
