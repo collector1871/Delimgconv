@@ -1,5 +1,5 @@
 ### Delcampe images downloader and converter
-dfgdf
+
 * technologia: Python3
 * kod ��r��d��owy:   
 https://github.com/collector1871/Delimgconv   
