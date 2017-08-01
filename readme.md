@@ -1,6 +1,6 @@
 ### Delcampe images downloader and converter
 
-UWAGA - od momentu zmiany sytony delcampe na nową, skrypt nie działa. Kod ma wartość historyczną.
+**UWAGA - od momentu zmiany sytony delcampe na nową, skrypt nie działa. Kod ma wartość historyczną.**
 
 * technologia: Python3
 * kod źródłowy:   
