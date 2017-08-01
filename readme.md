@@ -1,5 +1,7 @@
 ### Delcampe images downloader and converter
 
+UWAGA - od momentu zmiany sytony delcampe na nową, skrypt nie działa. Kod ma wartość historyczną.
+
 * technologia: Python3
 * kod źródłowy:   
 https://github.com/collector1871/Delimgconv   
