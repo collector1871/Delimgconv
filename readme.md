@@ -11,7 +11,6 @@ Celem programu było pobranie wszystkich plików *.jpg z 500 aukcji (lista przed
 Jako argument należało podać stronę użytkownika (sprzedawcy) z wyświetlonymi dokładnie 500 aukcjami.
 
 [1]: https://github.com/collector1871/Delimgconv
-
 #### Zależności
 
 - python3
