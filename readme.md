@@ -1,7 +1,7 @@
 ### Delcampe images downloader and converter
 
 * technologia: Python3
-* kod ��r��d��owy:   
+* kod źr��d��owy:   
 https://github.com/collector1871/Delimgconv   
 
 Celem programu jest pobranie wszystkich plik��w *.jpg z 500 aukcji (lista przedmiot��w) ze strony delcampe.net.
