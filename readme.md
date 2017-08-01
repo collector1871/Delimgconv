@@ -7,8 +7,8 @@ Kod ma wartość historyczną.**
 * kod źródłowy:   
 https://github.com/collector1871/Delimgconv   
 
-Celem programu jest pobranie wszystkich plików *.jpg z 500 aukcji (lista przedmiotów) ze strony delcampe.net.
-Jako argument należy podać stronę użytkownika (sprzedawcy) z wyświetlonymi dokładnie 500 aukcjami.
+Celem programu było pobranie wszystkich plików *.jpg z 500 aukcji (lista przedmiotów) ze strony delcampe.net.
+Jako argument należało podać stronę użytkownika (sprzedawcy) z wyświetlonymi dokładnie 500 aukcjami.
 
 #### Zależności
 
@@ -34,7 +34,7 @@ lub:
 
 #### Wynik
 	
-Pobrane pliki zostaną zapisane w formacie *.jpg (czas zależny jest od ilości zdjęć).
+Pobrane pliki zostały zapisane w formacie *.jpg (czas zależny jest od ilości zdjęć).
 
 #### Screenshoty - przykład
 
