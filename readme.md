@@ -5,12 +5,12 @@ Kod ma wartość historyczną.**
 
 * technologia: Python3
 * kod źródłowy:   
-[https://github.com/collector1871/Delimgconv][1]  
+[https://github.com/rdbeni0/Delimgconv][1]  
 
 Celem programu było pobranie wszystkich plików *.jpg z 500 aukcji (lista przedmiotów) ze strony delcampe.net.
 Jako argument należało podać stronę użytkownika (sprzedawcy) z wyświetlonymi dokładnie 500 aukcjami.
 
-[1]: https://github.com/collector1871/Delimgconv
+[1]: https://github.com/rdbeni0/Delimgconv
 #### Zależności
 
 - python3
@@ -39,6 +39,6 @@ Pobrane pliki zostały zapisane w formacie *.jpg (czas zależny jest od ilości 
 
 #### Screenshoty - przykład
 
-![Start](https://raw.githubusercontent.com/collector1871/Delimgconv/master/Delimgconv1.jpg)
+![Start](https://raw.githubusercontent.com/rdbeni0/Delimgconv/master/Delimgconv1.jpg)
 
-![pobrane fotki](https://raw.githubusercontent.com/collector1871/Delimgconv/master/Delimgconv2.jpg)
+![pobrane fotki](https://raw.githubusercontent.com/rdbeni0/Delimgconv/master/Delimgconv2.jpg)

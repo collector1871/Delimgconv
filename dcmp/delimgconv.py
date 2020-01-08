@@ -1,6 +1,6 @@
 '''
 Created on 4 sty 2016
-@author: collector1871
+@author: rdbeni0
 '''
 
 from budowaStr import BierzUrl2
